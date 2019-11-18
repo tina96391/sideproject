@@ -1,4 +1,4 @@
-# slideproject
+# sideproject
 
 A GUI project for Youtube music download
 
